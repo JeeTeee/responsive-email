@@ -1,0 +1,59 @@
+<mjml>
+  <mj-head>
+    <mj-title>Test Emailing responsive - Guillaume Teillais</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Montserrat, Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .arrow {
+        display: inline-block;
+        border: solid black;
+  			border-width: 0 6px 6px 0;
+  			padding: 8px;
+  			display: inline-block;
+				transform: rotate(-45deg);
+        vertical-align: middle;
+				border-color: #A1F93D;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#FFFFFF">
+    <mj-section>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image src="/images/logo-tap.png" alt="" align="left" border="none" padding="0px 10px 10px 0px"></mj-image>
+      </mj-column>
+      <mj-column width="30%" vertical-align="middle">
+        <mj-text align="left" padding="0px 0px 0px 10px" font-size="20px" font-weight="700" color="#7F7F7F">
+          <span class="arrow"></span>
+					<span style="vertical-align: middle; padding-left: 8px;">Agents</span>
+        </mj-text>
+      </mj-column>
+      <mj-column width="20%">
+        <mj-image src="/images/star-alliance-logo.jpg" alt="" align="right" border="none" padding="20px 0px 20px 0px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0px 10px 0px" background-color="#FFFFFF">
+      <mj-column width="40%">
+        <mj-text align="center" font-weight="700" padding="20px 0px 0px 0px" font-size="36px" line-height="0" color="#BED638">Newsletter</mj-text>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-divider width="100%" padding="30px 0px 0px 0px" border-width="3px" border-color="#BED638"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image src="/images/tap-image.jpg" alt="" align="center" border="none" padding="20px 0px 20px 0px"></mj-image>
+        <mj-text align="center" padding-top="10px" font-size="20px" font-weight="700" padding="0">Embrassez le Monde</mj-text>
+        <mj-text align="left" padding="20px 20px 20px 20px" font-weight="400"><strong>Cher Partenaire,<br></br>
+        Découvrez les offres de vols vers toutes les destinations TAP au Portugal, en Europe, au Brésil, en Afrique et en Amérique du Nord et Centrale.</strong><br></br>
+        Cette campagne sera <strong>disponible dans votre GDS du 09 au 19 janvier 2025 pour des voyages aller-retour entre le 15 janvier et le 15 mai 2025 en Classe Economy et Affaires</strong>.
+        Seule une période d'interdiction s'applique entre le 07 et le 22 avril 2025.<br></br>En savoir plus sur cette campagne <a href="https://www.tapagents.com/Partners_UI/Article.aspx?ArticleId=2350#regardez">ICI</a>
+        </mj-text>
+        <mj-button align="center" background-color="#5DBB1F" border-radius="0px" color="#13470F" href="https://www.tapagents.com/Partners_UI/" inner-padding="15px 30px" padding="20px 0px 0px 0px" width="100%" font-size="18px" font-weight="600">www.tapagents.com</mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
