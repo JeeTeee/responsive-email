@@ -25,7 +25,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="30%">
-        <mj-image src="/images/star-alliance.png" alt="" align="right" border="none" padding="6px 0px 20px 40px"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/JeeTeee/responsive-email/refs/heads/main/images/star-alliance.png" alt="" align="right" border="none" padding="6px 0px 20px 40px"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding="30px 0px 10px 0px">
