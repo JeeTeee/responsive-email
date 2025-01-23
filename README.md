@@ -1,7 +1,6 @@
 # Emailing Responsive avec MJML - Newsletter TAP
 
-Projet
-Ce repository contient les fichier de l'emailing responsive créé pour le Test de sélection pour le poste de Graphiste Web Designer chez TouMaG.
+Ce repository contient les fichiers de l'emailing responsive créé pour le test de sélection pour le poste de Graphiste Web Designer chez TouMaG.
 
 ---
 
